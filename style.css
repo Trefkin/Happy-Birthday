@@ -23,7 +23,7 @@ body {
     z-index: 999;
     position: absolute;
     color: white;
-    top: 40%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -111,7 +111,7 @@ body {
     margin-top: 30px;
     color: #D43F5E;
     font-weight: bold;
-    max-width: 90%;
+    max-width: 92.5%;
     font-size: 1px;
 
 }
@@ -148,9 +148,9 @@ button:hover {
 }
 
 .open .letter {
-    transform: translateY(-200px);
+    transform: translateY(-220px);
     transition-delay: 0.5s;
-    height: 150%;
+    height: 160%;
 }
 .open .letter p{
     font-size: 11.5px;
